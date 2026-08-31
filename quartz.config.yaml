@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: ja-JP
-  baseUrl: example.github.io/atcoder-tree
+  baseUrl: scrantonist.github.io/atcoder-tree
   ignorePatterns:
     - private
     - templates
